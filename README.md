@@ -1,5 +1,5 @@
 ﻿# About the Project
- SocialChat App is an app made for people to relax in thier leisure time and talk to their friends.Register with a username, choose your room to join, and have a chit chat in the room! It is made using Node.js, socket.io and express.js.
+ SocialChat App is an app made for people to relax in their leisure time and talk to their friends. Register with a username, choose your room to join, and have a chit chat in the room! It is made using Node.js, socket.io and express.js.
 
 See my app : https://fathomless-cliffs-32252.herokuapp.com/
 
